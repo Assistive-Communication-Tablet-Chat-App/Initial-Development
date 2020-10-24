@@ -1,0 +1,11 @@
+Developer Link: https://xd.adobe.com/view/ad77aeb1-0e4f-4940-9cb2-4a58feb001c0-f824/grid
+
+
+
+Steps to generate a new link for developer (In case the link doesn't work anymore)
+
+1. Download Adobe XD: https://www.adobe.com/products/xd.html
+
+2. Open "Adobe XD File" 
+
+3. Go to "Share" -> Under "View Settings" Select "Development" and click "Create Link"
